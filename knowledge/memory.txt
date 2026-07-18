@@ -1,0 +1,2 @@
+my name=kalpit
+capital of india=delhi
