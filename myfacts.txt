@@ -1,5 +1,0 @@
-capital of india=New Delhi
-capital of japan=Tokyo
-2+2=4
-cat=An animal
-dog=An animal
